@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chivalrously-chic, or you can just hit me up with SA!
-- 👀 I’m a curious person by nature, and guess that's why I'm quenching that curiosity by doing a concurrent BS degree in IIT-Madras.
+- 👀 Juggling two degrees at the moment: BTech and a BS at IIT-M.
 - 🌱 I’m currently learning the basics of Data Science!
 - 💻-New to GitHub. Just getting the hang of it!
 - 📫 How to reach me~ Well, LinkedIn would be an option: www.linkedin.com/in/shivaniadhiyaman100
